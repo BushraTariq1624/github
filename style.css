@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    padding: 0;
+}
+.welcome{
+    background-color: black;
+    color: white;
+}
+.wel{
+    margin-left: 100px;
+}
+/* .well{
+    width: 200px;
+} */
+.welcome h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.welcome button{
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    height: 40px;
+    width: 280px;
+    font-size: 20px;
+}
+.para{
+    font-size: 20px;
+    color: grey;
+}
+.grey{
+    color: grey;
+}
+.mrg{
+    margin-left: 20px;
+}
+.white{
+    color: white;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+.orange{
+    color: orange;
+}
+.back{
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bye h1{
+ font-size: 50px;   
+ font-weight: bolder;
+}
+.write{
+    font-size: 20px;
+}
